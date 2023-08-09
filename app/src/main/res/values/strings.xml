@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Eco-market</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ecoMarket">Эко-Маркет</string>
+    <string name="clean">Очистить</string>
+    <string name="basket">Корзина</string>
+    <string name="price">Цена</string>
+    <string name="forOne">c за шт</string>
+    <string name="tjs">c</string>
+    <string name="sum">Сумма</string>
+    <string name="deliviry">Доставка</string>
+    <string name="total">Итого</string>
+    <string name="makeRequest">Оформить заказ</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="product">Продукты</string>
+    <string name="fast_search">Быстрый поиск</string>
+    <string name="add">Добавить</string>
+    <string name="no_network">Отсутствует интернет соединение</string>
+    <string name="try_again">Попробуйте подключить мобильный интернет</string>
+    <string name="make_request">Оформить заказ</string>
+</resources>
